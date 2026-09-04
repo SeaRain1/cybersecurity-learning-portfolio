@@ -1,0 +1,17 @@
+# Compiled binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# Debugging artifacts
+*.dmp
+
+# Ghidra project files
+*.gpr
+*.rep/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
